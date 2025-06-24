@@ -1,4 +1,4 @@
-project = 'Lund Boats Gps Update'
+project = 'Land Boats Gps Update'
 author = 'Your Name'
 release = '1.0'
 
