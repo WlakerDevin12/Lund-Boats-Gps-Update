@@ -4,7 +4,7 @@ The GPS Update for Lund Bots: Transforming Navigation Technology
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-.. image:: 
+.. image:: corosgpsupdate.jpg
    :alt: My Project Logo
    :width: 350px
    :align: center
